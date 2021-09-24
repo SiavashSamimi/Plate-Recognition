@@ -1,4 +1,6 @@
 # Plate-Recognition
+The output of this program is strongly dependent on the ambient light, shooting angle and body color of the car.
+In fact, it is more suitable for cars with dark body colors
 ## ***Requirements***  
 - Python 3.5 or above
 - opencv 4.0 or above
